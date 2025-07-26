@@ -10,7 +10,7 @@ Despite recent advances in generative models, generating **visually coherent and
 
 ---
 
-## 🎯 Project Goal
+##  Project Goal
 
 To build a GenAI project that:
 - Generates images from natural language prompts.
@@ -20,7 +20,7 @@ To build a GenAI project that:
 
 ---
 
-## 👤 My Role
+##  My Role
 
 This Project developed as part of a Generative AI . I was responsible for:
 - Designing the pipeline architecture.
