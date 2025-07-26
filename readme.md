@@ -38,3 +38,9 @@ This Project developed as part of a Generative AI . I was responsible for:
 ✅ Introduces a **relevance score** 
 
 ✅ Uses **Latent Diffusion Model (LDM)** 
+
+## Snapshot of Project
+
+<img width="960" height="540" alt="s01" src="https://github.com/user-attachments/assets/fac17f5e-611b-440e-9535-bac30a0f171c" />
+<img width="960" height="540" alt="s02" src="https://github.com/user-attachments/assets/bf9eebb5-34ee-462c-9019-3ca9e81701a4" />
+<img width="960" height="540" alt="s03" src="https://github.com/user-attachments/assets/7db338a6-5faf-46b0-a36c-50b66dc102f3" />
